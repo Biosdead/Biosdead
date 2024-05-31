@@ -1,16 +1,38 @@
-## Hi there 👋
+# Lennon Sales Furtado - Portfolio
 
-<!--
-**Biosdead/Biosdead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Lennon Sales Furtado](https://biosdead.github.io/portifolio/images/lennon.jpg)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a passionate professor and programmer specializing in computer science, software engineering, and digital games. With a PhD from UFPA and a teaching position at IFPA, I bring a wealth of knowledge and experience to my work.
+
+### Skills
+- **Programming Languages:** JavaScript, HTML, CSS, Java, Unity, Unreal, Iphone, Android.
+- **Areas of Expertise:** Computer Science, Software Engineering, Digital Games
+
+## Projects
+
+### Marés de Salinas
+An essential app for beachgoers in Salinas, Pará, providing accurate tide information and weather updates.
+- [Website](https://www.maresdesalinas.com.br)
+- [Google Play](https://play.google.com/store/apps/details?id=com.maresdesalinas)
+
+### Me Pague!
+A handy app to help you track borrowed money and repayments.
+- [Website](https://example.com)
+- [Google Play](https://play.google.com/store/apps/details?id=com.mepague)
+
+### Palavras Raras
+Expand your vocabulary with a new rare word every day.
+- [Website](https://example.com)
+- [Google Play](https://play.google.com/store/apps/details?id=com.palavrasraras)
+
+## Contact
+
+- **Location:** Belém, Pará, Brazil
+- **Phone:** +55 91 98031-2585
+- **Email:** lennonsfurtado@gmail.com
+
+Feel free to reach out for collaborations or inquiries.
+
+---
