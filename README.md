@@ -1,6 +1,6 @@
 # Lennon Sales Furtado - Portfolio
 
-![Lennon Sales Furtado](https://biosdead.github.io/portifolio/images/lennon.jpg)
+![Lennon Sales Furtado](https://biosdead.github.io/portifolio/imgs/perfilBW.png)
 
 ## About Me
 
